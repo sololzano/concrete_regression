@@ -1,2 +1,2 @@
-# concrete_regression
-High Performance Concrete Compressive Strength Prediction
+# High Performance Concrete Compressive Strength Prediction
+This is the repository of the Concrete Compressive Strength dataset.
